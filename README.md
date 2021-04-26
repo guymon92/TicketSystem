@@ -1,4 +1,4 @@
-# Wix FED Entry Level Exam
+# FED Entry Level Exam
 
 Hi there!  
 In this exam you will extend and add new features to a simplified ticketing system.
@@ -79,7 +79,7 @@ Let's create a search mechanism on steroids.
 
 ### Part 3 - Your extra touch
 
-Think of a small addition to this project and make it happen. If you need inspiration, you can check out our real ticketing app at https://wix.com/wixanswers and grab some ideas from there ;)
+Think of a small addition to this project and make it happen. If you need inspiration, you can check out our real ticketing app and grab some ideas from there ;)
 It should involve adding something to the UI, or server (or both!).
 A good rule of thumb for the effort here is that it should not exceed the time that it took you to perform Part 2.  
 _Please describe the feature you've added on your email back to us_
@@ -93,13 +93,3 @@ _Note:_ this step is also mandatory.
 - This task involves both client and server code. Regardless of bonuses and part 3, in the end you should have touched both areas. If you haven't - you probably are not covering all our requirements.
 - If you have any questions regarding the task itself or its environment, feel free to ask in the exam's e-mail. For general coding / technology questions, please consult stack overflow, forums and other sources of your choice.
 
-## Submitting
-
-1. Replace `yours@email.com` with your real email address in the `meta.txt` file.
-2. Delete any `node_modules` directory from the project.
-3. Zip the root directory (`entry-level-exam`) to a file called `entry-level-exam_{yourname}.zip` and send it back to the email you got from us.
-4. You can describe your extra touch (part 3), and any general notes you may have.
-   Can be anything from challenges to something you feel was not done perfect,
-   to something you're specially proud of.
-
-![good luck](https://media.giphy.com/media/12XDYvMJNcmLgQ/giphy.gif)
